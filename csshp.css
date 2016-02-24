@@ -1,0 +1,78 @@
+body
+{
+/*background-image: url("http://www.sparqvault.com/wp-content/uploads/2013/02/GirlsCloset.jpg");
+  background-repeat: no-repeat;
+  background-position: right-top; */
+}
+div
+{
+	 border:4px dashed #C12283;
+	 height:225px;
+	 width:825px;
+	 text-align:center;
+	 border-radius:500px;
+	 font-size:100px;
+	 margin:auto;
+	 font-family:Georgia;
+	 background-color:#E7CDF7;
+}
+img
+{
+	height : 300px;
+	width : 200px;
+	margin-left :100px;
+	margin-right :100px;
+	margin-top:40px;
+	border:1px dashed blue;
+	border-radius:500px;
+		
+}
+td
+{
+	text-align:center;
+	height:300;
+	width:700;
+}
+div:hover
+{
+	 border:4px dashed #23C260;
+	 height:225px;
+	 width:825px;
+	 text-align:center;
+	 border-radius:500px;
+	 font-size:100px;
+	 margin:auto;
+	 font-family:Georgia;
+	 background-color:#C12283;
+	 font-color:#23C260;
+}
+body
+{
+	background-image: url("http://fitflopssingapore.net/wp-content/uploads/2014/01/clothing-brand-logos-listsouth-korea-through-my-eyes-how-to-choose-ivdtz8wl.jpg");
+}
+img:hover
+{
+	height : 400px;
+	width : 400px;
+	margin-left :100px;
+	margin-right :100px;
+	margin-top:40px;
+	border:4px dashed blue;
+	border-radius:600px;
+		
+}
+marquee
+{
+	color:#461B7E;
+	margin-top:10px;
+	font-size:20px;
+}
+	
+@media (max-width: 600px) {
+  #wrap {
+    width:100px;
+    height:100px;
+    font-size:50px;
+  }
+
+

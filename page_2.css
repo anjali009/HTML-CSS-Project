@@ -1,0 +1,42 @@
+h1
+{
+
+    	color: rgb(255,0,0)
+    	 border: 5px ;
+	 height:200px;
+	 width:1200px;
+	 text-align:center;
+	 border-radius:20px;
+	font-size: 2em;
+   	font-family: Lobster 2, Bevan;
+   	 text-shadow: 5px 5px 5px  #ADDFFF;
+}
+
+p
+{
+	
+	text-align : left;
+	color : blue;
+	text-decoration: line-through;
+	text-indent: 10px;
+	font-family: "Times New Roman", Times, serif;
+	font-size:10px;
+
+	
+	
+}
+button
+{
+	color : #7D0552;
+}
+
+
+a:hover {
+    color: #FF00FF;
+}
+
+@media (min-width: 600px) {
+  #wrap {
+    display: none;
+  }
+
